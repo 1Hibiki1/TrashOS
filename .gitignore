@@ -1,0 +1,4 @@
+.VSCodeCounter
+.gdb_history
+*.d
+build
