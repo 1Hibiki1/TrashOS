@@ -10,6 +10,9 @@
 
 #include "../programs/tictactoe.h"
 
+
+// ! NOTE: job ctrl not implemented
+
 /* Misc manifest constants */
 #define MAXLINE_TSH    100   /* max line size */
 #define MAXARGS     5   /* max args on a command line */
